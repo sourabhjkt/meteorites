@@ -11,5 +11,5 @@ Fist install pipenv. Then:
 
 ```
 
-pipenv install 
-pipenv run "python meteordata.py"
+pipenv install
+pipenv run "python meteor/meteordata.py"
